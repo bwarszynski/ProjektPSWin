@@ -1,0 +1,16 @@
+F:\Desktop\blazor-workshop-main\src\BlazingPizza.Shared\bin\Debug\net7.0\BlazingPizza.ComponentsLibrary.staticwebassets.runtime.json
+F:\Desktop\blazor-workshop-main\src\BlazingPizza.Shared\bin\Debug\net7.0\BlazingPizza.Shared.deps.json
+F:\Desktop\blazor-workshop-main\src\BlazingPizza.Shared\bin\Debug\net7.0\BlazingPizza.Shared.dll
+F:\Desktop\blazor-workshop-main\src\BlazingPizza.Shared\bin\Debug\net7.0\BlazingPizza.Shared.pdb
+F:\Desktop\blazor-workshop-main\src\BlazingPizza.Shared\bin\Debug\net7.0\BlazingPizza.ComponentsLibrary.dll
+F:\Desktop\blazor-workshop-main\src\BlazingPizza.Shared\bin\Debug\net7.0\BlazingPizza.ComponentsLibrary.pdb
+F:\Desktop\blazor-workshop-main\src\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.csproj.AssemblyReference.cache
+F:\Desktop\blazor-workshop-main\src\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desktop\blazor-workshop-main\src\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.AssemblyInfoInputs.cache
+F:\Desktop\blazor-workshop-main\src\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.AssemblyInfo.cs
+F:\Desktop\blazor-workshop-main\src\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.csproj.CoreCompileInputs.cache
+F:\Desktop\blazor-workshop-main\src\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.csproj.CopyComplete
+F:\Desktop\blazor-workshop-main\src\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.dll
+F:\Desktop\blazor-workshop-main\src\BlazingPizza.Shared\obj\Debug\net7.0\refint\BlazingPizza.Shared.dll
+F:\Desktop\blazor-workshop-main\src\BlazingPizza.Shared\obj\Debug\net7.0\BlazingPizza.Shared.pdb
+F:\Desktop\blazor-workshop-main\src\BlazingPizza.Shared\obj\Debug\net7.0\ref\BlazingPizza.Shared.dll
